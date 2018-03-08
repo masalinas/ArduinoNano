@@ -28,7 +28,7 @@ Previous to upload your sketch to Arduino, you must:
     ATTRS{idVendor}=="2a03", ENV{ID_MM_DEVICE_IGNORE}="1"
     ```
 
-### DS3102 Arduino connection
+### Arduino Nano connection
 ![img_4684](https://user-images.githubusercontent.com/1216181/37168440-2d5aaafc-2305-11e8-8601-32ad7194a103.JPG)
 
 ### Arduino libraries
