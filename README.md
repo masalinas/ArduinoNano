@@ -1,4 +1,4 @@
-# ArduinoNano
+# Arduino Nano
 Proof of concept Arduino Nano Blinking skech
 
 ### Ubuntu Configuration
